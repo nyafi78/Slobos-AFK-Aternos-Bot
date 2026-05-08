@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "nikakil",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Audismp-zNbi.aternos.me",
-    "port": 29945,
+    "port": 9945,
     "version": "",
     "try-creative": false
   },
